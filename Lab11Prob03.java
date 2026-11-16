@@ -6,6 +6,7 @@
 * Last Modified: Nov 11, 2026
 * Description: This will use the code from problem 2 and will be modified to change the objects 
 * instances to a binary file instead of string data 
+* LINK TO GITHUB: https://github.com/PatVel93/Lab11CSCI1302.git
 */
 import java.io.*;
 import java.util.ArrayList;
