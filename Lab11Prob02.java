@@ -1,5 +1,5 @@
 /**
-* File: Lab11_Problem1.java
+* File: Lab11_Prob2.java
 * Class: CSCI 1302
 * Author: Patricia Velasquez
 * Created on: Nov 11, 2026
@@ -7,6 +7,7 @@
 * Description: This will create an array using the info for the input file 
 * this data will then be stored in a person object using the person class which will 
 * be store in the array found in this class. 
+* LINK TO GITHUB: https://github.com/PatVel93/Lab11CSCI1302.git
 */
 import java.io.*;
 import java.util.ArrayList;
