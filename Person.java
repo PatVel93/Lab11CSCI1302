@@ -5,12 +5,14 @@
 * Created on: Nov 11, 2026
 * Last Modified: Nov 11, 2026
 * Description: This program will take the data info from the input file and store them into 
-* person object which will then be used in Lab11_Prob02
+* person object which will then be used in Lab11_Prob02.
+* UPDATED: Now includes Serializable interface 
 */
+import java.io.Serializable;
 import java.text.NumberFormat;
 import java.util.Locale;
-
-public class Person implements Comparable<Person> {
+//changed to Serializable
+public class Person implements Comparable<Person>, Serializable {
 	//private to avoid changes made to values
 	private int age;
 	private String name;
