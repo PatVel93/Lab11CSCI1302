@@ -1,11 +1,12 @@
 /**
-* File: Lab11_Problem1.java
+* File: Lab11_Prob1.java
 * Class: CSCI 1302
 * Author: Patricia Velasquez
 * Created on: Nov 11, 2026
 * Last Modified: Nov 11, 2026
 * Description: This program will read an input file and then print out data
 *  into a newly created output file. 
+*  LINK TO GITHUB: https://github.com/PatVel93/Lab11CSCI1302.git
 */
 import java.io.*;
 
